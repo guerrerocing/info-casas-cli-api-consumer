@@ -1,6 +1,7 @@
 {
     "name": "pedrotelleria/info-casas-cli-api-consumer",
     "require": {
+        "php": "^8.0",
         "guzzlehttp/guzzle": "^7.8",
         "ext-json": "*"
     },
